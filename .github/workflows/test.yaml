@@ -1,6 +1,6 @@
 name: Test
 on:
-  workflow-dispatch:
+  workflow_dispatch:
   
 jobs:
   local-cache:
